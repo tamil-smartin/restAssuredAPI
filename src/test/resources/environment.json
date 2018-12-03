@@ -1,0 +1,7 @@
+{
+"Hostname": "https://secure.testweb.testurldev.com",
+"login": "/abc/getPath/v1/login",
+"hmac": "/abc/getPath/v1/auth/getauthtoken",
+"existingEmail": "/abc/getPath/v1/checkExists",
+"logout": "/abc/getPath/v1/session/logout"
+}
